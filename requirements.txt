@@ -1,0 +1,8 @@
+pycaret==3.2.0
+mlflow == 2.9.2
+flask
+pandas
+scikit-learn
+pyyaml
+scipy
+joblib==1.2.0
